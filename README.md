@@ -26,5 +26,8 @@ Open another terminal window and `cd` into same directory and run
 Send your messages by pressing your system's EOF key sequence. (ctrl-d in bash). 
 You can see message in consumer terminal.
 
+## Screenshot:
+<img src="KafkaResult.png">
+
 ## Ref
 Apache Kafka in Cloud: https://www.cloudkarafka.com
